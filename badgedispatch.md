@@ -22,7 +22,7 @@
 - $Web Accessibility Initiative
 - $4 * WEB APIS (utilisation de l'API)
 - $4 * Website SpeedOptimisation
-- 
+
 
 ## Back
 
@@ -44,9 +44,7 @@
 - $4 * Symfony
 - $3 * Web API Management
 - $WEB SITE Security
-- 
-- 
-- 
+
 
 ## Back and front end
 
@@ -58,8 +56,7 @@
 - $Test Driven Development
 - $Usefull Readme
 - $WEBSITE Author
-- 
-- 
+
 
 ## Softskill
 
@@ -75,10 +72,6 @@
 - Team Manager
 - Team Player
 - Work Ethic
-- 
-- 
-- 
-- 
 
 
 ## Others
@@ -113,5 +106,3 @@
 - Tech writer
 - 3 * Virtualization and Containers
 - Workshop Teacher
-- 
-- 

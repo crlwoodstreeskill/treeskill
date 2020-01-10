@@ -10,6 +10,7 @@
     - Markdown (1)
         - Useful Readme (1)
 
+
 ## RoadMap to Front
 
 - HTML5 (4)
@@ -40,6 +41,7 @@
             - VueJS (4)
     - -> FrontEnd (1)
 
+
 ## RoadMap to Back-End
 
 - PHP (4)
@@ -64,3 +66,50 @@
         - website security (1)
 
 - -> Back-End dev
+
+## Transversal
+
+- Softskill
+    - change enthousiasme
+    - constructive thinking
+    - continuous learner
+    - Presentation skills 
+    - Project management skills
+    - Reliable
+    - Shell Scripting
+    - Solution Oriented
+    - Team Leader
+    - Team Manager
+    - Team Player
+    - Work Ethic
+- Others
+    - Agile
+    - $Becode dev wannabe
+    - $Becode pre-training
+    - Big Data
+    - Blockchain
+    - Code Evangelist
+    - Compliance with laws
+    - Copywriter
+    - Customer management
+    - Cybersecurity
+    - Data Engineer
+    - DevOps
+    - DevOps specialist
+    - Dev Sec Ops
+    - Dialog Flow
+    - IA
+    - **FullStack Dev**
+    - IBM Quantum Computing workshop
+    - Mobile dev
+    - Native mobile dev
+    - Networking skills
+    - IOT
+    - $5 * Junior on Boarding
+    - Secure Dev
+    - Secure programming
+    - Solution Hacker
+    - Tech Innovation enthousiast
+    - Tech writer
+    - 3 * Virtualization and Containers
+    - Workshop Teacher
