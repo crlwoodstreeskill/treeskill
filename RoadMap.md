@@ -32,8 +32,8 @@
     - Website SpeedOptimisation (4)
     - WEB APIs (utilisation) (4)
     - Framework (not a badge)
-        - React
-        - AngularJS
-        - VueJS
+        - React (4)
+        - AngularJS (4)
+        - VueJS (4)
     - ->FrontEnd
 
