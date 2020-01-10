@@ -5,10 +5,10 @@
 - 4 * Ajax
 - automated workflox
 - 4 * Canvas
-- 3 * CSS Framework
-- 4 * CSS 3
+- $3 * CSS Framework
+- $4 * CSS 3
 - 4 * GUI
-- 4 * HTML 5
+- $4 * HTML 5
 - 4 * Javascript
 - 4 * AngularJS
 - 4 * React
@@ -16,10 +16,10 @@
 - OnePage
 - 4 * PWA (progressiv web app)
 - Reponsivness
-- SEO 
+- $SEO 
 - 4 * 3rd-Party Libraries Javascript (Jquery, D3, Three.js)
 - Userfriendly UX
-- Web Accessibility Initiative
+- $Web Accessibility Initiative
 - 4 * WEB APIS (utilisation de l'API)
 - WEBSITE Author
 - 4 * Website Optimisation
@@ -51,19 +51,13 @@
 
 ## Back and front end
 
-- Git
+- $Git
 - POO
-- Linux Basics
-- MarkDown
-- 3 * Terminal
+- $Linux Basics
+- $MarkDown
+- $3 * Terminal
 - Test Driven Development
-- Usefull Readme
-- 
-- 
-
-
-## Tools inc
-
+- $Usefull Readme
 - 
 - 
 
@@ -90,8 +84,8 @@
 ## Others
 
 - Agile
-- Becode dev wannabe
-- Becode pre-training
+- $Becode dev wannabe
+- $Becode pre-training
 - Big Data
 - Blockchain
 - Code Evangelist
@@ -111,7 +105,7 @@
 - Native mobile dev
 - Networking skills
 - IOT
-- 5 * Junior on Boarding
+- $5 * Junior on Boarding
 - Secure Dev
 - Secure programming
 - Solution Hacker
