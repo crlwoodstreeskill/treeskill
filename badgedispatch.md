@@ -20,30 +20,30 @@
 - 4 * 3rd-Party Libraries Javascript (Jquery, D3, Three.js)
 - $Userfriendly UX
 - $Web Accessibility Initiative
-- 4 * WEB APIS (utilisation de l'API)
-- WEBSITE Author
+- $4 * WEB APIS (utilisation de l'API)
 - $4 * Website SpeedOptimisation
 - 
 
 ## Back
 
-- system admin
+- $system admin
 - 4 * AWS
 - **Backend Dev**
-- 3 * Cloud management
-- 4 * CMS WordPress
-- 3 * Continuous Intergration
-- 4 * CRUD
-- 4 * Laravel
-- 4 * PHP
-- 4 * Python
-- 4 * Ruby
+- $3 * Cloud management
+- $4 * CMS WordPress
+- $3 * Continuous Integration
+- $4 * CRUD
+- $4 * Laravel
+- $4 * PHP
+- $4 * Python
+- $4 * Ruby
+- $4 * NodeJS
 - 3 * Server fundamentals
 - 3 * Server Infrastructure
-- SQL Dev
-- 4 * Symfony
-- 3 * Web API Management
-- WEB SITE Security
+- $SQL Dev
+- $4 * Symfony
+- $3 * Web API Management
+- $WEB SITE Security
 - 
 - 
 - 
@@ -51,12 +51,13 @@
 ## Back and front end
 
 - $Git
-- POO
+- $Object Oriented Programing (POO)
 - $Linux Basics
 - $MarkDown
 - $3 * Terminal
-- Test Driven Development
+- $Test Driven Development
 - $Usefull Readme
+- $WEBSITE Author
 - 
 - 
 
