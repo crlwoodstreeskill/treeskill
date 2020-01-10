@@ -2,28 +2,27 @@
 
 ## front
 
-- 4 * Ajax
-- automated workflox
-- 4 * Canvas
+- $4 * Ajax
+- $automated workflow
+- $4 * Canvas
 - $3 * CSS Framework
 - $4 * CSS 3
-- 4 * GUI
+- $4 * GUI
 - $4 * HTML 5
-- 4 * Javascript
+- $4 * Javascript
 - 4 * AngularJS
 - 4 * React
 - 4 * VueJS
-- OnePage
-- 4 * PWA (progressiv web app)
-- Reponsivness
+- $OnePage
+- $4 * PWA (progressiv web app)
+- $Reponsivness
 - $SEO 
 - 4 * 3rd-Party Libraries Javascript (Jquery, D3, Three.js)
-- Userfriendly UX
+- $Userfriendly UX
 - $Web Accessibility Initiative
 - 4 * WEB APIS (utilisation de l'API)
 - WEBSITE Author
-- 4 * Website Optimisation
-- 4 * Website SpeedOptimisation
+- $4 * Website SpeedOptimisation
 - 
 
 ## Back

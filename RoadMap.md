@@ -23,8 +23,17 @@
     - GUI (Graphic User Interface) (4)
 
 - JavaScript (4)
+    - WebSite Author (1)
     - Canvas (4)
     - Onepage (everything on the same page)
     - PWA (Progressiv Web Apps) (4)
+    - AJAX (4)
+    - 3rd party Framework library (Jquery, D3, Three.js, ...) (4)
+    - Website SpeedOptimisation (4)
+    - WEB APIs (utilisation) (4)
     - Framework (not a badge)
-        - 
+        - React
+        - AngularJS
+        - VueJS
+    - ->FrontEnd
+
